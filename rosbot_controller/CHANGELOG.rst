@@ -2,8 +2,8 @@
 Changelog for package rosbot_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2023-09-20)
+------------------
 * Merge pull request `#2 <https://github.com/rafal-gorecki/rosbot_ros/issues/2>`_ from rafal-gorecki/test-spellcheck
   added spell check
 * Merge pull request `#1 <https://github.com/rafal-gorecki/rosbot_ros/issues/1>`_ from rafal-gorecki/test-black

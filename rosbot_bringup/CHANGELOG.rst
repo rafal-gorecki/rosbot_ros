@@ -2,8 +2,8 @@
 Changelog for package rosbot_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2023-09-20)
+------------------
 * Merge pull request `#1 <https://github.com/rafal-gorecki/rosbot_ros/issues/1>`_ from rafal-gorecki/test-black
   Test black
 * Merge remote-tracking branch 'origin/humble' into test-black
