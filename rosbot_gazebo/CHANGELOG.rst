@@ -2,6 +2,16 @@
 Changelog for package rosbot_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#2 <https://github.com/rafal-gorecki/rosbot_ros/issues/2>`_ from rafal-gorecki/test-spellcheck
+  added spell check
+* Merge pull request `#1 <https://github.com/rafal-gorecki/rosbot_ros/issues/1>`_ from rafal-gorecki/test-black
+  Test black
+* Merge remote-tracking branch 'origin/humble' into test-black
+* Merge remote-tracking branch 'origin/humble' into test-bringup
+* Contributors: Jakub Delicat, rafal-gorecki
+
 0.8.2 (2023-09-01)
 ------------------
 
