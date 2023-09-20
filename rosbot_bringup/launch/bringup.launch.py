@@ -6,6 +6,7 @@ from launch.actions import IncludeLaunchDescription, DeclareLaunchArgument
 from launch.launch_description_sources import PythonLaunchDescriptionSource
 from launch.substitutions import LaunchConfiguration, PathJoinSubstitution
 
+# asda
 
 def generate_launch_description():
     use_sim = LaunchConfiguration("use_sim")
@@ -58,14 +59,14 @@ def generate_launch_description():
         }.items(),
     )
 
-    ekf_config = PathJoinSubstitution([rosbot_bringup, "config", "ekf.yaml"])
+    usser = PathJoinSubstitution([rosbot_bringup, "config", "ekf.yaml"])
 
     robot_localization_node = Node(
         package="robot_localization",
         executable="ekf_node",
         name="ekf_filter_node",
         output="screen",
-        parameters=[ekf_config],
+        parameters=[usser],
     )
 
     actions = [
